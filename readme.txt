@@ -10,3 +10,5 @@ bc
 d
  
 my practice
+
+我第一次添加了一行中文
