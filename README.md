@@ -8,4 +8,10 @@ a --- aaa
 bb
 
 
-ccc
+cc
+c
+
+stash
+
+
+
