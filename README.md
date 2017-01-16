@@ -23,4 +23,8 @@ stash
 -- git stash bbb
 
 
+<<<<<<< Updated upstream
 cccccccccccccccccccccccccccccc
+=======
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+>>>>>>> Stashed changes
